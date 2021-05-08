@@ -1,0 +1,35 @@
+.heading{
+    
+    background-color: rgb(237, 243, 151);
+    padding: 15px;
+    border:solid;
+    border-radius: 10px;
+}
+.form-control:focus {
+    box-shadow: none;
+    background-color: rgb(167, 255, 167) !important;
+    }
+.accordion-button:focus{
+    box-shadow:0px !important;
+    box-shadow: none ;
+    border: none;
+}
+.btns{
+    background-color:rgb(182, 253, 160);
+    font-weight: bolder;
+}
+.delete{
+    background-color: red;
+    float: right;
+}
+
+.accordion{
+    font-weight: bolder;
+    border: solid;
+}
+.accordion-item{
+    border: steelblue;
+}
+.accordion-collapse{
+    font-weight: normal;
+}
